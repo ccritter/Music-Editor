@@ -1,0 +1,83 @@
+Sequencer opened.
+Setting sequence...
+Playing...
+Changing instrument for channel 0 to 1.
+Changing instrument for channel 1 to 2.
+Changing instrument for channel 2 to 3.
+Changing instrument for channel 3 to 4.
+Changing instrument for channel 4 to 5.
+Changing instrument for channel 5 to 6.
+Changing instrument for channel 6 to 7.
+Changing instrument for channel 7 to 8.
+Changing instrument for channel 8 to 9.
+Changing instrument for channel 9 to 10.
+Sending NOTE_ON for note 64 of volume 72 on channel 0 and tick 0
+Sending NOTE_ON for note 55 of volume 70 on channel 0 and tick 0
+Sending NOTE_OFF for note 64 of volume 72 on channel 0 and tick 2
+Sending NOTE_ON for note 62 of volume 72 on channel 0 and tick 2
+Sending NOTE_OFF for note 62 of volume 72 on channel 0 and tick 4
+Sending NOTE_ON for note 60 of volume 71 on channel 0 and tick 4
+Sending NOTE_OFF for note 60 of volume 71 on channel 0 and tick 6
+Sending NOTE_ON for note 62 of volume 79 on channel 0 and tick 6
+Sending NOTE_OFF for note 55 of volume 70 on channel 0 and tick 7
+Sending NOTE_OFF for note 62 of volume 79 on channel 0 and tick 8
+Sending NOTE_ON for note 55 of volume 79 on channel 0 and tick 8
+Sending NOTE_ON for note 64 of volume 85 on channel 0 and tick 8
+Sending NOTE_OFF for note 64 of volume 85 on channel 0 and tick 10
+Sending NOTE_ON for note 64 of volume 78 on channel 0 and tick 10
+Sending NOTE_OFF for note 64 of volume 78 on channel 0 and tick 12
+Sending NOTE_ON for note 64 of volume 74 on channel 0 and tick 12
+Sending NOTE_OFF for note 55 of volume 79 on channel 0 and tick 15
+Sending NOTE_OFF for note 64 of volume 74 on channel 0 and tick 15
+Sending NOTE_ON for note 55 of volume 77 on channel 0 and tick 16
+Sending NOTE_ON for note 62 of volume 75 on channel 0 and tick 16
+Sending NOTE_OFF for note 62 of volume 75 on channel 0 and tick 18
+Sending NOTE_ON for note 62 of volume 77 on channel 0 and tick 18
+Sending NOTE_OFF for note 62 of volume 77 on channel 0 and tick 20
+Sending NOTE_ON for note 62 of volume 75 on channel 0 and tick 20
+Sending NOTE_OFF for note 55 of volume 77 on channel 0 and tick 24
+Sending NOTE_OFF for note 62 of volume 75 on channel 0 and tick 24
+Sending NOTE_ON for note 55 of volume 79 on channel 0 and tick 24
+Sending NOTE_ON for note 64 of volume 82 on channel 0 and tick 24
+Sending NOTE_OFF for note 55 of volume 79 on channel 0 and tick 26
+Sending NOTE_OFF for note 64 of volume 82 on channel 0 and tick 26
+Sending NOTE_ON for note 67 of volume 84 on channel 0 and tick 26
+Sending NOTE_OFF for note 67 of volume 84 on channel 0 and tick 28
+Sending NOTE_ON for note 67 of volume 75 on channel 0 and tick 28
+Sending NOTE_OFF for note 67 of volume 75 on channel 0 and tick 32
+Sending NOTE_ON for note 55 of volume 78 on channel 0 and tick 32
+Sending NOTE_ON for note 64 of volume 73 on channel 0 and tick 32
+Sending NOTE_OFF for note 64 of volume 73 on channel 0 and tick 34
+Sending NOTE_ON for note 62 of volume 69 on channel 0 and tick 34
+Sending NOTE_OFF for note 62 of volume 69 on channel 0 and tick 36
+Sending NOTE_ON for note 60 of volume 71 on channel 0 and tick 36
+Sending NOTE_OFF for note 60 of volume 71 on channel 0 and tick 38
+Sending NOTE_ON for note 62 of volume 80 on channel 0 and tick 38
+Sending NOTE_OFF for note 55 of volume 78 on channel 0 and tick 40
+Sending NOTE_OFF for note 62 of volume 80 on channel 0 and tick 40
+Sending NOTE_ON for note 55 of volume 79 on channel 0 and tick 40
+Sending NOTE_ON for note 64 of volume 84 on channel 0 and tick 40
+Sending NOTE_OFF for note 64 of volume 84 on channel 0 and tick 42
+Sending NOTE_ON for note 64 of volume 76 on channel 0 and tick 42
+Sending NOTE_OFF for note 64 of volume 76 on channel 0 and tick 44
+Sending NOTE_ON for note 64 of volume 74 on channel 0 and tick 44
+Sending NOTE_OFF for note 64 of volume 74 on channel 0 and tick 46
+Sending NOTE_ON for note 64 of volume 77 on channel 0 and tick 46
+Sending NOTE_OFF for note 55 of volume 79 on channel 0 and tick 48
+Sending NOTE_OFF for note 64 of volume 77 on channel 0 and tick 48
+Sending NOTE_ON for note 55 of volume 78 on channel 0 and tick 48
+Sending NOTE_ON for note 62 of volume 75 on channel 0 and tick 48
+Sending NOTE_OFF for note 62 of volume 75 on channel 0 and tick 50
+Sending NOTE_ON for note 62 of volume 74 on channel 0 and tick 50
+Sending NOTE_OFF for note 62 of volume 74 on channel 0 and tick 52
+Sending NOTE_ON for note 64 of volume 81 on channel 0 and tick 52
+Sending NOTE_OFF for note 64 of volume 81 on channel 0 and tick 54
+Sending NOTE_ON for note 62 of volume 70 on channel 0 and tick 54
+Sending NOTE_OFF for note 55 of volume 78 on channel 0 and tick 56
+Sending NOTE_OFF for note 62 of volume 70 on channel 0 and tick 56
+Sending NOTE_ON for note 52 of volume 72 on channel 0 and tick 56
+Sending NOTE_ON for note 60 of volume 73 on channel 0 and tick 56
+Sending NOTE_OFF for note 52 of volume 72 on channel 0 and tick 64
+Sending NOTE_OFF for note 60 of volume 73 on channel 0 and tick 64
+Pausing...
+Sequencer closed.
